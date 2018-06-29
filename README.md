@@ -1,6 +1,7 @@
 # k8scripts
 
-W I P ---> Work In Progress
+
+Launch Fabric Network on IBM K8 Cluster ---> Work In Progress
 
 These scripts are all copied from https://github.com/IBM-Blockchain/ibm-container-service
 
